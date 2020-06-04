@@ -60,7 +60,7 @@ body {
 .container	{
 	width: 960px;
 	margin: auto;
-	background-color: #34495E;
+	background-color: #aeaeae;
 	border: 5px solid red;
 
 }
@@ -145,7 +145,7 @@ body {
 	width: 360px;
 	float: right;
 	padding: 20px;
-	background-color: #ff9955ff;
+	background-color: #aeaeae;
 	box-sizing: border-box;
 	
 }
